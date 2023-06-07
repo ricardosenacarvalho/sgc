@@ -99,7 +99,7 @@
 .FormAlterarChave {
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 9px;
     margin-left: 20px;
     justify-content: center;
     animation: animacaoPopCadActive 0.4s ease-in-out;
